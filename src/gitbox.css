@@ -1,0 +1,19 @@
+.link_gitbox {
+  word-wrap: break-word;
+  border-radius: 0.25rem;
+  border: none;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  padding: 9px 24px;
+  color: rgb(255, 255, 255);
+  background: rgb(89, 98, 223);
+  margin-bottom: 0;
+  margin-left: 10px;
+  text-decoration: none !important;
+}
+
+.link_gitbox:hover {
+  outline: 1px solid #fff;
+  background: rgb(96, 104, 218);
+}
