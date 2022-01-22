@@ -12,14 +12,14 @@
     }
   ],
   "description": "This extension automatically shows Open in Sandbox link on github repos.",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/ankurkakroo2/gitbox",
   "icons": {
     "16": "icons/gitbox16.png",
     "48": "icons/gitbox48.png",
     "128": "icons/gitbox128.png"
   },
   "manifest_version": 2,
-  "name": "Gitbox",
+  "name": "GitBox",
   "permissions": ["*://github.com/*"],
   "version": "0.0.1"
 }
